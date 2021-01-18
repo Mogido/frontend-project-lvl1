@@ -1,5 +1,5 @@
 install:
-	npm install --dry-run
+	npm install
 
 brain-games:
 	node bin/brain-games.js
