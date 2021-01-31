@@ -20,7 +20,7 @@ const playGame = (func, greeting) => {
     }
     counter += 1;
   }
-  console.log(`Congratulations, ${name}`);
+  console.log(`Congratulations, ${name}!`);
 };
 
 export default playGame;
